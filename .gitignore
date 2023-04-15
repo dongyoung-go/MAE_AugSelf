@@ -1,0 +1,9 @@
+__pycache__/
+data/
+logs/
+*.pt
+*.pt.last
+*.pt_hf/
+*.logs
+*mid_save*
+notebook/
